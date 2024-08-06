@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-//Owner Numbers 
-global.owner = [
+//Owner Numbers 254759725734
+global.owner = [papaa
   ['923135673658', 'wasi', false],
   [''], 
   [''],
